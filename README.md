@@ -6,15 +6,20 @@ Windows에서 Discord, Chrome 같은 앱의 소리를 캡처해서 일본어 음
 
 GitHub Releases에서 `Nihongo-Wakarimasen.zip`을 받은 뒤 압축을 풀고 아래 exe를 실행하면 됩니다.
 
-1. `Name Dictionary.exe`
+1. `Download Local Model.exe`
+   - 로컬 STT 모델을 미리 다운로드합니다.
+   - 처음 한 번만 실행하면 됩니다.
+   - `Model is ready.`가 보이면 완료입니다.
+
+2. `Name Dictionary.exe`
    - `Papago API` 탭에 Client ID와 Client Secret을 저장합니다.
    - 필요하면 이름, 히라가나, 가타카나, 한글 표시를 등록합니다.
 
-2. `Nihongo Wakarimasen.exe`
+3. `Nihongo Wakarimasen.exe`
    - 실행하면 어느 앱의 사운드를 가져올지 선택하는 창이 뜹니다.
    - Discord, Chrome 등 번역할 앱을 선택하면 오버레이가 시작됩니다.
 
-처음 실행할 때 로컬 STT 모델을 다운로드하느라 시간이 걸릴 수 있습니다.
+`Download Local Model.exe`를 건너뛰어도 오버레이 첫 실행 중 모델 다운로드가 시도될 수 있지만, 진행 상황을 보기 어렵기 때문에 먼저 실행하는 것을 권장합니다.
 
 ## 기능
 
