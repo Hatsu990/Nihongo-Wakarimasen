@@ -2,7 +2,7 @@
 
 Windows에서 Discord, Chrome 같은 앱의 소리를 캡처해서 일본어 음성을 한국어 자막으로 보여주는 듣기 보조 도구입니다.
 
-## 친구에게 배포된 ZIP 사용법
+## 설치방법
 
 GitHub Releases에서 `Nihongo-Wakarimasen.zip`을 받은 뒤 압축을 풀고 아래 exe를 실행하면 됩니다.
 
