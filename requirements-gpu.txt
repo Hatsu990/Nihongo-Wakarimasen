@@ -1,0 +1,4 @@
+# Optional Windows GPU runtime packages for faster-whisper/CTranslate2.
+# Install after requirements.txt when using local STT with --whisper-device cuda.
+nvidia-cublas-cu12
+nvidia-cudnn-cu12

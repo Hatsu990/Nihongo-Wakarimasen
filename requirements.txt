@@ -1,0 +1,8 @@
+faster-whisper
+numpy
+openai
+PySide6
+soundcard
+websocket-client
+process-audio-capture
+recap-capture

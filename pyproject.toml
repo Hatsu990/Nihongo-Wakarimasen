@@ -1,0 +1,18 @@
+[project]
+name = "nihongo-wakarimasen"
+version = "0.1.0"
+description = "Discord Japanese listening assistant with STT, translation, and subtitle overlay."
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "faster-whisper",
+    "numpy",
+    "openai",
+    "PySide6",
+    "soundcard",
+    "websocket-client",
+    "process-audio-capture",
+    "recap-capture",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

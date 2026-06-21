@@ -1,0 +1,71 @@
+{
+  "description": "Common Japanese ASR correction hints for Nihongo Wakarimasen translation.",
+  "hints": [
+    {
+      "asr": "ワンちゃん",
+      "intended": "ワンチャン",
+      "korean": "어쩌면, 가능성 있음",
+      "note": "Casual speech. Do not translate as dog or puppy unless the context is actually about animals."
+    },
+    {
+      "asr": "韓国乗る",
+      "intended": "韓国のり",
+      "korean": "한국 김",
+      "note": "Food context."
+    },
+    {
+      "asr": "遠く系",
+      "intended": "トーク系",
+      "korean": "토크 계열",
+      "note": "YouTube, stream, vlog, or content genre context."
+    },
+    {
+      "asr": "マンジー",
+      "intended": "バンジー",
+      "korean": "번지점프",
+      "note": "Activity context."
+    },
+    {
+      "asr": "バンジ",
+      "intended": "バンジー",
+      "korean": "번지점프",
+      "note": "Activity context."
+    },
+    {
+      "asr": "お盛り",
+      "intended": "重り",
+      "korean": "무게추, 추",
+      "note": "Bungee jumping or weight measurement context. Do not translate as food topping."
+    },
+    {
+      "asr": "かかる",
+      "intended": "測る",
+      "korean": "재다, 측정하다",
+      "note": "Weight or measurement context."
+    },
+    {
+      "asr": "飛べない",
+      "intended": "飛べない",
+      "korean": "번지점프를 못 뛸 수도 있다",
+      "note": "Bungee jumping context. Prefer jump-related wording over literal flying."
+    },
+    {
+      "asr": "神社",
+      "intended": "新年",
+      "korean": "새해",
+      "note": "Year, plan, or mindset context."
+    },
+    {
+      "asr": "信念",
+      "intended": "新年",
+      "korean": "새해",
+      "note": "Year, plan, or mindset context."
+    },
+    {
+      "asr": "黄色",
+      "intended": "毛色",
+      "korean": "결, 성격, 계열",
+      "note": "Content type or style context."
+    }
+  ]
+}

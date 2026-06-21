@@ -1,0 +1,4 @@
+{
+  "description": "High-confidence Japanese STT corrections applied before translation. Keep this generic; do not add corrections that only make one test video pass.",
+  "replacements": []
+}
